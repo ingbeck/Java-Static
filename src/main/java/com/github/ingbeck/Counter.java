@@ -5,9 +5,7 @@ public class Counter {
     private static int totalCount = 0;
     private int instanceCount = 0;
 
-    public Counter(){
-        Counter.incrementTotalCount();
-    }
+    //public Counter(){}
 
     public static void incrementTotalCount(){
         totalCount++;

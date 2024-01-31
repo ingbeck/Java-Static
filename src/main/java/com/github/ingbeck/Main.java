@@ -30,8 +30,7 @@ public class Main {
         counter4.incrementInstanceCount();
         counter4.incrementInstanceCount();
 
-        //static count - x5
-        Counter.incrementTotalCount();
+        //static count - x4
         Counter.incrementTotalCount();
         Counter.incrementTotalCount();
         Counter.incrementTotalCount();
